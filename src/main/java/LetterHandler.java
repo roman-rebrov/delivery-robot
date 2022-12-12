@@ -1,5 +1,4 @@
 import java.util.Map;
-import java.util.stream.Stream;
 
 class LetterHandler {
     private static final char aChar = "R".charAt(0);
